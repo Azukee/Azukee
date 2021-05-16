@@ -1,4 +1,16 @@
-### Hi there 👋
+### Greetings
+
+My name is Azuki (Azukee) I'm a German programmer and I work on various projects 😄
+
+Most noteably are these projects:
+
+[Macaron](https://github.com/Azukee/Macaron) a program to unpack archive file-types from various games.
+
+[Maple](https://maple.software/) a osu! multi-hack, offering various features.
+
+
+![Azukee's GitHub stats](https://github-readme-stats.vercel.app/api?username=azukee&show_icons=true&theme=omni)
+
 
 <!--
 **Azukee/Azukee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
