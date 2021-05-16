@@ -1,10 +1,9 @@
 ### Greetings
 
 My name is Azuki (Azukee) I'm a German programmer and I work on various projects 😄
-
 Most noteably are these projects:
 
-[Macaron](https://github.com/Azukee/Macaron) a program to unpack archive file-types from various games.
+[Macaron](https://github.com/Azukee/Macaron) a program to unpack archive file-types from various games. (Currently not being updated)
 
 [Maple](https://maple.software/) a osu! multi-hack, offering various features.
 
