@@ -7,7 +7,7 @@ Most noteably are these projects:
 
 [Maple](https://maple.software/) a osu! multi-hack, offering various features.
 
-[JSCross](https://azuki.dev/) a JavaScript obfuscator written in C#, using no outside knowledge and only selfmade code. Housing super-features 🤔
+[JSCross](https://azuki.dev/) a JavaScript obfuscator written in C#.NETCORE, using no outside knowledge and only selfmade code. Housing super-features 🤔
 
 
 ![Azukee's GitHub stats](https://github-readme-stats.vercel.app/api?username=azukee&show_icons=true&theme=omni)
