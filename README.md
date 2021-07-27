@@ -5,6 +5,8 @@ Most noteably are these projects:
 
 [Macaron](https://github.com/Azukee/Macaron) a program to unpack archive file-types from various games. (Currently not being updated)
 
+[Crotchet](https://github.com/Azukee/Crotchet) a Quaver PoC Multihack. I made this public for research purposes. (Currently not being updated)
+
 [Maple](https://maple.software/) a osu! multi-hack, offering various features.
 
 [JSCross](https://azuki.dev/) a JavaScript obfuscator written in C#.NETCORE, using no outside knowledge and only selfmade code. Housing super-features 🤔
